@@ -1,0 +1,37 @@
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\obj\Debug\ap 2 p1.csprojAssemblyReference.cache
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\obj\Debug\MainWindow.g.cs
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\obj\Debug\App.g.cs
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\obj\Debug\ap 2 p1_MarkupCompile.cache
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\obj\Debug\ap 2 p1_MarkupCompile.lref
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\bin\Debug\ap 2 p1.exe.config
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\bin\Debug\ap 2 p1.exe
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\bin\Debug\ap 2 p1.pdb
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\bin\Debug\Npgsql.dll
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\bin\Debug\System.Buffers.dll
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\bin\Debug\System.Memory.dll
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\bin\Debug\System.Text.Json.dll
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\bin\Debug\System.ValueTuple.dll
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\bin\Debug\Npgsql.pdb
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\bin\Debug\Npgsql.xml
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\bin\Debug\System.Buffers.xml
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\bin\Debug\System.Memory.xml
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\bin\Debug\System.Text.Json.xml
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\bin\Debug\System.ValueTuple.xml
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\obj\Debug\MainWindow.baml
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\obj\Debug\ap 2 p1.g.resources
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\obj\Debug\ap_2_p1.Properties.Resources.resources
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\obj\Debug\ap 2 p1.csproj.GenerateResource.cache
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\obj\Debug\ap 2 p1.csproj.CoreCompileInputs.cache
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\obj\Debug\ap 2 p1.csproj.CopyComplete
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\obj\Debug\ap 2 p1.exe
+C:\Users\setayesh\source\repos\ap 2 p1\ap 2 p1\obj\Debug\ap 2 p1.pdb
